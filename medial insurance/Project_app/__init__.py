@@ -1,0 +1,1 @@
+print("the init file of the project".center(80,"*"))
